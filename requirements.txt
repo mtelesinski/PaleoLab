@@ -1,5 +1,5 @@
 wtforms
-certifi==2019.6.16
+certifi==2022.12.7
 Click==7.0
 Flask==1.0.3
 itsdangerous==1.1.0
